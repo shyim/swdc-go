@@ -1,0 +1,7 @@
+name: shopware-docker
+services:
+  shit:
+    image: nginx
+configs:
+  foo:
+    name: bla
